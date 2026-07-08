@@ -1,6 +1,6 @@
 # Hello👋🏼, I'm Montell.
 
-👨🏼‍💻 creating bugs since 2020 <br> 🛜 currently working on [webpage](https://www.karibukahawacamps.vercel.app)<br>👨🏼‍🎓 studying computer science at Jomo Kenyatta University of Agriculture and Technology <br> 🌱 I’m currently learning ThreeJS and blender.
+👨🏼‍💻 creating bugs since 2019 <br> 🛜 currently working on [webpage](https://www.pinxgolf.vercel.app)<br>👨🏼‍🎓 completed computer science at Jomo Kenyatta University of Agriculture and Technology <br> 🌱 I’m currently learning agentic harness engineering.
 
 # 💻 Tech Stack:
 
